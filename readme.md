@@ -29,12 +29,6 @@ A ticketing system ultimately helps organizations to deliver an integrated and s
 offering a range of capture mechanisms and the ability to control progress and keep the people with a vested interest informed.
 
 
-## Installation
-
-
-```bash
-Install command
-```
 ## Authors
 
 Students in the software engineering department at SCE - Sami Shamoon College:
@@ -52,5 +46,13 @@ See also the list of [contributors](https://github.com/yariv1025/SUMMONERS_WAR_T
 ## Contributing
 This project is licensed under the SCE License - see the [License.md](https://gist.github.com/SUMMONERS_WAR_TICKETING_SYSTEM/LICENSE.md) file for details.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Releases
+--------
+Summoners War ticketing system versions are released via the GitHub repository
+
+FAQ
+----
+Frequently asked questions are included.
+Before you report on a problem, search for a answare in the FAQ's
+
+## END
